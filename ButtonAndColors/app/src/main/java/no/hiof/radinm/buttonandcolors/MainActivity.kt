@@ -61,7 +61,6 @@ class MainActivity : ComponentActivity() {
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
-    // Need to put the theme here to be able to run the preview of the app!
     ButtonAndColorsTheme {
     }
 }
